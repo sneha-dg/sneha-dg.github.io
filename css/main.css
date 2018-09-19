@@ -28,7 +28,7 @@ p {
 
 /* Links */
 a {
-  color: #FF851B;
+  color: rgba(209, 17, 75, 0.938);
   word-wrap: break-word;
 
   -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -40,7 +40,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #7b7b7b;
+  color: #77112b;
   text-decoration: none;
   outline: 0;
 }
